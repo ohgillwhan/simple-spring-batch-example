@@ -1,0 +1,1 @@
+java -jar simple-spring-batch-example-0.0.1-SNAPSHOT.jar --job.name=exampleJob date="2022-07-02 15:20:01"
